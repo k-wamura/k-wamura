@@ -9,3 +9,5 @@
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=k-wamura" alt="GitHub Trophy">
 </a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-wamura&cache_seconds=7200" />
+
